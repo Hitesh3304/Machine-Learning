@@ -1,0 +1,26 @@
+customer_id,age,income,spending_score,education_level,employment_status,credit_score,num_purchases,avg_purchase_amount,time_since_last_purchase,loyalty_years,satisfaction_rating,gender,location_type,preferred_category,seasonal_buyer,risk_category,churn_probability
+1,23,35000,78,Bachelor,Employed,720,45,89.5,15,2.5,4.2,Female,Urban,Electronics,Yes,Low,0.15
+2,45,67000,65,Master,Employed,680,32,156.75,8,5.2,3.8,Male,Suburban,Clothing,No,Medium,0.25
+3,34,52000,82,Bachelor,Employed,750,67,124.3,3,4.1,4.5,Female,Urban,Home,Yes,Low,0.12
+4,56,89000,45,PhD,Employed,690,28,210.8,22,7.8,3.2,Male,Rural,Books,No,Medium,0.35
+5,29,41000,91,High School,Employed,710,78,67.9,5,3.2,4.7,Female,Urban,Fashion,Yes,Low,0.08
+6,38,58000,72,Bachelor,Self-employed,665,41,178.25,12,6.1,4.0,Male,Suburban,Sports,No,Medium,0.22
+7,62,95000,38,Master,Retired,640,19,287.6,45,12.3,2.8,Female,Rural,Health,No,High,0.55
+8,27,33000,85,Bachelor,Unemployed,580,52,95.4,18,1.8,3.9,Male,Urban,Gaming,Yes,High,0.45
+9,41,71000,59,Master,Employed,725,35,198.7,7,8.4,3.5,Female,Suburban,Beauty,No,Low,0.18
+10,33,46000,88,Bachelor,Employed,695,61,112.8,4,4.7,4.6,Male,Urban,Electronics,Yes,Low,0.1
+11,52,82000,42,PhD,Employed,715,25,245.3,28,9.2,3.1,Female,Suburban,Books,No,Medium,0.38
+12,25,38000,79,High School,Employed,650,48,78.2,11,2.1,4.3,Male,Urban,Fashion,Yes,Medium,0.28
+13,47,63000,67,Master,Employed,705,38,167.9,14,6.8,3.7,Female,Rural,Home,No,Low,0.2
+14,31,49000,84,Bachelor,Self-employed,675,55,103.6,6,3.8,4.4,Male,Urban,Sports,Yes,Medium,0.16
+15,59,87000,41,Master,Employed,660,22,276.4,31,11.5,2.9,Female,Suburban,Health,No,High,0.48
+16,26,36000,86,Bachelor,Employed,690,58,88.7,9,2.3,4.5,Male,Urban,Gaming,Yes,Low,0.14
+17,43,69000,61,Master,Employed,720,33,189.5,16,7.1,3.6,Female,Suburban,Beauty,No,Medium,0.24
+18,35,54000,80,Bachelor,Employed,740,49,139.2,7,5.4,4.1,Male,Urban,Electronics,Yes,Low,0.13
+19,48,74000,55,PhD,Employed,685,29,223.8,25,8.9,3.3,Female,Rural,Books,No,Medium,0.32
+20,30,44000,89,High School,Employed,665,64,91.3,2,3.5,4.8,Male,Urban,Fashion,Yes,Low,0.09
+21,54,85000,46,Master,Self-employed,650,26,258.7,38,10.7,3.0,Female,Suburban,Health,No,High,0.52
+22,28,40000,83,Bachelor,Employed,705,51,105.8,13,2.9,4.2,Male,Urban,Sports,Yes,Medium,0.19
+23,44,66000,63,Master,Employed,680,36,172.4,19,6.5,3.8,Female,Rural,Home,No,Medium,0.27
+24,32,47000,87,Bachelor,Employed,715,56,96.9,8,4.2,4.4,Male,Urban,Gaming,Yes,Low,0.11
+25,57,91000,39,PhD,Retired,625,18,294.5,42,13.1,2.7,Female,Rural,Books,No,High,0.58
